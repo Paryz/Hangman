@@ -8,3 +8,5 @@ Hangman game that has 3 different clients:
 Game written using OTP at most with GenServers, Supervisors and local dependencies.
 
 Hangman game is written without Ecto
+
+Dictionary is just an Application that generates words for Hangman game
